@@ -1,4 +1,4 @@
-<h1 align="center">Lyrics Search JavaScript</h1>
+<h1 align="center">Lyrics Search</h1>
 Aplicação web para pesquisar letras de músicas, projeto desenvolvido para fins acadêmicos, o código fonte do projeto foi baseado no canal 
 
 [Código Fonte TV](https://www.youtube.com/watch?v=h0sNAXE1ozo).
