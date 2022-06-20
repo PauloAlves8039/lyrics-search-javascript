@@ -3,13 +3,14 @@ Aplicação web para pesquisar letras de músicas, projeto desenvolvido para fin
 
 [Código Fonte TV](https://www.youtube.com/watch?v=h0sNAXE1ozo).
 
+Para a pesquisa dos dados foi utilizada a API 
+[Lyrics ovh](https://lyricsovh.docs.apiary.io/#)
+
 ## :wrench: Recursos Utilizados
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [JQuery v3.5.1](http://blog.jquery.com/2020/05/04/jquery-3-5-1-released-fixing-a-regression/)
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [Lyrics ovh](https://lyricsovh.docs.apiary.io/#)
 
 ## :floppy_disk: Clonar Repositório
 
